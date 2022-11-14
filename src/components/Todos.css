@@ -1,0 +1,29 @@
+.containerInput {
+    display: flex;
+    justify-content: center;
+    margin: 4vh;
+    gap: 1.5vw;
+  }
+  
+  .inputTodo {
+    width: 40%;
+    padding: 0.7vh 0;
+    font-size: 15px;
+    text-align: center;
+    border-radius: 5px;
+  }
+  
+  .buttonAdd {
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 6vw;
+    padding: 5px;
+    background-color: #003952;
+  }
+  
+  .buttonAdd:hover {
+    background-color: #373737;
+    cursor: pointer;
+  }
+  

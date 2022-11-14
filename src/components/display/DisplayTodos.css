@@ -1,0 +1,30 @@
+.containerDisplay{
+    text-align: center;
+  }
+  
+  .buttonDisplay {
+    display: flex;
+    justify-content: center;
+    gap: 1vw;
+    margin-top: 8vh;
+    margin-right: 10.4vw;
+  }
+  
+  .buttonDisplay button {
+    width: 80px;
+    border-radius: 5px;
+    padding: 5px;
+    color:white;
+    background-color: #003952;
+  }
+  .buttonDisplay button:hover {
+    background-color: #373737; 
+    cursor: pointer;
+  }
+  .buttonDisplay button:active{
+    background-color: white;
+    color:black;
+    font-weight: bold;
+  }
+  
+  
